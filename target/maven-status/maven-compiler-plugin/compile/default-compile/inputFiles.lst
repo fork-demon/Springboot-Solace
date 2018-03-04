@@ -1,0 +1,4 @@
+D:\macquarie\poc\springboot_camel_template\SpringBootCamelWeb\src\main\java\com\example\config\ContextConfig.java
+D:\macquarie\poc\springboot_camel_template\SpringBootCamelWeb\src\main\java\com\example\processors\DeliveryHttpPreProcessor.java
+D:\macquarie\poc\springboot_camel_template\SpringBootCamelWeb\src\main\java\com\example\processors\TransformHttpPreProcessor.java
+D:\macquarie\poc\springboot_camel_template\SpringBootCamelWeb\src\main\java\com\example\SpringBootCamelWebApplication.java

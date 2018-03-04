@@ -1,0 +1,4 @@
+com\example\processors\DeliveryHttpPreProcessor.class
+com\example\SpringBootCamelWebApplication.class
+com\example\processors\TransformHttpPreProcessor.class
+com\example\config\ContextConfig.class
